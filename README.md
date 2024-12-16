@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Emmanuel Baah
-- 👀 I’m interested in Software development,Algorithms and Machine Learning.
--  🔭 I’m currently working on a small python library to help cars navigate effectively when there is a malfunctioning in traffic-lights 
--💬 Ask me about everything, i am open to any and everything
--🤔 I’m always looking for help with so many things
-- 💞️ I’m looking to collaborate with Memphis Corperation
+- 👀 I’m interested in solving problems in relation to software development, data science and Machine Learning.
+-  🔭 I’m currently working on a research on working memory
+-💬 Ask me about anything.
+-🤔 looking for help with so many things
+- 💞️ Under Memphis Corperation (Internship and training)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: if's practical jokes, I'm in.😜🚀
-- 📫 How to reach me : emmanuelhaab14@gmail.com
+- ⚡ Fun fact: practical jokes, funny animal videos.😜
+- 📫 How to reach me : 
+gmail - emmanuelhaab14@gmail.com
 
 
 
