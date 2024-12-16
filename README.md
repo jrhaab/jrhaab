@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Baah
+- 👋 Hi, I’m Emmanuel Nana Kwabena Baah
 - 👀 I’m interested in solving problems in relation to software development, data science and Machine Learning.
 -  🔭 I’m currently working on a research on working memory
 -💬 Ask me about anything.
