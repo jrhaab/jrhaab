@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Emmanuel Nana Kwabena Baah
 - 👀 I’m interested in solving problems in relation to software development, data science and Machine Learning.
--  🔭 I’m currently working on a research on working memory
--💬 Ask me about anything.
--🤔 looking for help with so many things
-- 💞️ Under Memphis Corperation (Internship and training)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: practical jokes, funny animal videos.😜
+-  🔭 I’m currently working on a research on working memory.
+- 💞️ Worked with Memphis Corporations ( Front End Software Engineer Intern )
+- Familar languages :  HTML, CSS, JavaScript, TypeScript
+- Technologies: React, Next.js, Tailwind CSS, Jest, Storybook, Cypress, React Query, Yarn, webpack
+--💬 Ask me about anything.
 - 📫 How to reach me : 
 gmail - emmanuelhaab14@gmail.com
 
